@@ -1,0 +1,17 @@
+include:
+  - ".nojekyll"
+  
+# Configurar tipos MIME para WebAssembly
+plugins:
+  - jekyll-default-layout
+
+# Forzar que sirva archivos wasm correctamente
+markdown: kramdowninclude:
+  - ".nojekyll"
+  
+# Configurar tipos MIME para WebAssembly
+plugins:
+  - jekyll-default-layout
+
+# Forzar que sirva archivos wasm correctamente
+markdown: kramdown
